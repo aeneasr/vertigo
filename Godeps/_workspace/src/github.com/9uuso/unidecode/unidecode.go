@@ -24,3 +24,6 @@ var (
 	decoded    = false
 	transCount = rune(len(transliterations))
 	getUint16  = binary.LittleEndian.Uint16
+)
+
+func decodeTransliterations() {

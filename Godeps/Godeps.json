@@ -22,7 +22,7 @@
 		},
 		{
 			"ImportPath": "github.com/9uuso/unidecode",
-			"Rev": "9258c6a115d9ff514c0ebaf30e81459e867b4446"
+			"Rev": "8495a150c845279e248c1b1e18885705aa16dcb8"
 		},
 		{
 			"ImportPath": "github.com/PuerkitoBio/goquery",
